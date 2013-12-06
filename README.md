@@ -1,7 +1,8 @@
 # Geckoboard Widget Notifier
 
-Geckoboard Widget Notifier is a sample bookmarklet notifying widget update.
-Hack the sample script as you want.
+Geckoboard Widget Notifier is a sample bookmarklet notifying widget update on [Geckoboard](https://www.geckoboard.com).
+
+Hack it as you want.
 
 ## Demo
 
@@ -18,7 +19,7 @@ updated.
 
 ## Hacking
 
-Hope sample bookmarklet has already gave you some idea, though, I put some tips that may help your hacking.
+Hope the sample bookmarklet has already gave you some idea, though, I write some tips that may help your hacking.
 
 #### Selecting Widget
 
