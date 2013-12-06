@@ -7,15 +7,14 @@ Hack it as you want.
 ## Demo
 
 1. Copy [widget_event_bml_sample.js](https://github.com/ono/geckoboard-widget-notifier/blob/master/widget_event_bml_sample.js)
-1. Create a bookmarklet from it<br>
+1. Create a bookmarklet from the script<br>
    e.g. Paste the code on http://mrcoles.com/bookmarklet/ and register the bookmarklet in your bookmark
-1. Open developer tool and visit: https://tatsuyatest.geckoboard.com/dashboards/8280C1B78C1D7FB7
+1. Open developer tool and visit to [my sample dashboard](https://tatsuyatest.geckoboard.com/dashboards/8280C1B78C1D7FB7)
 1. Click the bookmarklet
 
-You will see some messages in console and get an alert when VISITOR widget is
-updated.
+You will see some messages in console and get an alert when VISITOR widget is updated.
 
-(Confirmed OS X Chrome.)
+(Confirmed OS X Chrome)
 
 ## Hacking
 
